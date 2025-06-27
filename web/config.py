@@ -1,1 +1,16 @@
-hi
+# Remove this line before deploying
+_____REMOVE_THIS_LINE_____=True
+# REQUIRED CONFIG
+BOT_TOKEN = ""                              # Require restart after changing it while bot running
+OWNER_ID = "6272165202"                               # Require restart after changing it while bot running
+TELEGRAM_API = "24638343"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "c16b13b73c2f2473b8e3cbcf2ab1d200"                          # Require restart after changing it while bot running
+
+# OPTIONAL CONFIG
+USER_SESSION_STRING = ""                    # Require restart after changing it while bot running
+DATABASE_URL = "mongodb+srv://youyooou8:SZSe2ESMc0T8IpLj@cluster0.dpq1fyv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"                           # Require restart after changing it while bot running
+DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
+CMD_SUFFIX = ""                             # Require restart after changing it while bot running
+AUTHORIZED_CHATS = "-1002708199754"                       # Require restart after changing it while bot running
+SUDO_USERS = "7181944051"                             # Require restart after changing it while bot running
+BLACKLIST_USERS = ""                        # Require restart after changing it while bot running
