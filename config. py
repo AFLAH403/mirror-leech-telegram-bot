@@ -9,4 +9,4 @@ DATABASE_URL = "mongodb+srv://youyooou8:SZSe2ESMc0T8IpLj@cluster0.dpq1fyv.mongod
 DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
 CMD_SUFFIX = ""                             # Require restart after changing it while bot running
 AUTHORIZED_CHATS = "-1002708199754"                       # Require restart after changing it while bot running
-SUDO_USERS = "7181944051"                             # Require restart after changing it while bot running 
+SUDO_USERS = "7181944051"                             # Require restart after changing it while bot running
