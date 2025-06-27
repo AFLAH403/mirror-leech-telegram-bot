@@ -7,9 +7,9 @@ TELEGRAM_HASH = ""
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
-DATABASE_URL = ""
+AUTHORIZED_CHATS = "-1002708199754"
+SUDO_USERS = "7181944051"
+DATABASE_URL = "mongodb+srv://youyooou8:SZSe2ESMc0T8IpLj@cluster0.dpq1fyv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
